@@ -1,3 +1,10 @@
 .favorite {
     background-color: lightblue
 }
+
+.user {
+    border: 3px solid #444;
+    margin: 10px;
+    padding: 15px;
+    width: 300px;
+}
